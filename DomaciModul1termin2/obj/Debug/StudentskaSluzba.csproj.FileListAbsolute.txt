@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\bin\Debug\DomaciModul1termin2.exe.config
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\bin\Debug\DomaciModul1termin2.exe
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\bin\Debug\DomaciModul1termin2.pdb
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\obj\Debug\StudentskaSluzba.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\obj\Debug\StudentskaSluzba.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\obj\Debug\StudentskaSluzba.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\obj\Debug\DomaciModul1termin2.exe
+C:\DotNetDev\Projects\DomaciModul1termin2\DomaciModul1termin2\obj\Debug\DomaciModul1termin2.pdb
